@@ -1,4 +1,4 @@
-19034096197916959
+19037316107617854
 629105150521
 629105150521
 <B>WR-COM</b><BR>Type B with Pegs, High Current at Pin 1 & Pin 5 Micro USB 2.0 SMT Type B Horizontal 5 Contacts High Current
@@ -82284,6 +82284,20 @@ transformer flyback
 0
 10
 10
+USB
+1981568-1
+1981568-1
+Connector
+0
+11
+11
+USB
+NE555DR
+D (R-PDSO-G8)
+Integrated Circuit
+0
+8
+8
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins

@@ -677,7 +677,7 @@
   )
 
   (module Connector_Wire:SolderWire-0.1sqmm_1x04_P3.6mm_D0.4mm_OD1mm (layer F.Cu) (tedit 5EB70B42) (tstamp 5FEF85CD)
-    (at 54.1 60.6 180)
+    (at 51.56 60.5365 180)
     (descr "Soldered wire connection, for 4 times 0.1 mm² wires, basic insulation, conductor diameter 0.4mm, outer diameter 1mm, size source Multi-Contact FLEXI-E 0.1 (https://ec.staubli.com/AcroFiles/Catalogues/TM_Cab-Main-11014119_(en)_hi.pdf), bend radius 3 times outer diameter, generated with kicad-footprint-generator")
     (tags "connector wire 0.1sqmm")
     (path /601F73E4)
@@ -960,7 +960,7 @@
   )
 
   (module Capacitor_SMD:C_0402_1005Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 5FF7A189)
-    (at 56.6 50.8)
+    (at 54.06 50.7365)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /5FE81F4B/5FEB2202)
@@ -1860,7 +1860,7 @@
   )
 
   (module Capacitor_SMD:C_0402_1005Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 5FF56962)
-    (at 90.043 33.7185)
+    (at 90.297 33.7185)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /5FE81F4B/5FED2C74)
@@ -1896,7 +1896,7 @@
   )
 
   (module Capacitor_SMD:C_0402_1005Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 5FF56A82)
-    (at 90.043 34.798)
+    (at 90.297 34.798)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /5FE81F4B/5FEDD5AB)
@@ -1932,7 +1932,7 @@
   )
 
   (module Capacitor_SMD:C_0402_1005Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 5FF56932)
-    (at 90.043 36.5125)
+    (at 90.297 36.5125)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /5FE81F4B/5FEE4F78)
@@ -4027,7 +4027,7 @@
   )
 
   (module Resistor_SMD:R_0402_1005Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 5FF55E79)
-    (at 54 57.9 270)
+    (at 51.46 57.8365 270)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /5FF33AF8)
@@ -4063,7 +4063,7 @@
   )
 
   (module Resistor_SMD:R_0402_1005Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 5FF55E19)
-    (at 50.5 57.9 270)
+    (at 47.96 57.8365 270)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /5FF33B02)
@@ -4099,7 +4099,7 @@
   )
 
   (module Resistor_SMD:R_0402_1005Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 5FF55DE9)
-    (at 47 57.8 270)
+    (at 44.46 57.7365 270)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /5FF33B1A)
@@ -4135,7 +4135,7 @@
   )
 
   (module Resistor_SMD:R_0402_1005Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 5FF55E49)
-    (at 43.5 57.9 270)
+    (at 40.96 57.8365 270)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /5FF33B24)
@@ -4387,7 +4387,7 @@
   )
 
   (module Resistor_SMD:R_0402_1005Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 5FF7A0FC)
-    (at 43.617 53.313)
+    (at 41.077 53.2495)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /5FE81F4B/5FEB8767)
@@ -4423,7 +4423,7 @@
   )
 
   (module Resistor_SMD:R_0402_1005Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 5FF7A0CC)
-    (at 56.6 52.1 180)
+    (at 54.06 52.0365 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /5FE81F4B/5FEBB4C1)
@@ -5093,7 +5093,7 @@
   )
 
   (module flash:SON127P800X600X80-9N (layer F.Cu) (tedit 5FEA2D6E) (tstamp 5FF7A13B)
-    (at 49.967 52.7415)
+    (at 47.427 52.678)
     (path /5FE81F4B/5FEB5DB2)
     (fp_text reference U5 (at -1.94349 -4.13708) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.015)))
