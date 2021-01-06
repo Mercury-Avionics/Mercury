@@ -1,4 +1,4 @@
-19032487947065442
+19034096197916959
 629105150521
 629105150521
 <B>WR-COM</b><BR>Type B with Pegs, High Current at Pin 1 & Pin 5 Micro USB 2.0 SMT Type B Horizontal 5 Contacts High Current
@@ -6,6 +6,13 @@
 0
 9
 9
+Altimeter
+PQFN60P250X250X80-10N
+
+
+0
+10
+10
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
