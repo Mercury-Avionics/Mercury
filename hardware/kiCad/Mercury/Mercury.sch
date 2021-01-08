@@ -1526,9 +1526,9 @@ F 3 "~" H 6225 4625 50  0001 C CNN
 	1    6225 4625
 	1    0    0    -1  
 $EndComp
-Text GLabel 6025 4625 0    50   Input ~ 0
-AGPIO1
 Text GLabel 6025 4725 0    50   Input ~ 0
+AGPIO1
+Text GLabel 6025 4625 0    50   Input ~ 0
 AGPIO2
 Text GLabel 6025 4225 0    50   Input ~ 0
 Output1

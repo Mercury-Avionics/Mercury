@@ -1384,4 +1384,16 @@ Wire Wire Line
 	1200 2800 1600 2800
 Connection ~ 1200 2800
 Connection ~ 1600 2800
+$Comp
+L power:GND #PWR?
+U 1 1 5FF89171
+P 6700 2675
+F 0 "#PWR?" H 6700 2425 50  0001 C CNN
+F 1 "GND" H 6825 2625 50  0000 C CNN
+F 2 "" H 6700 2675 50  0001 C CNN
+F 3 "" H 6700 2675 50  0001 C CNN
+	1    6700 2675
+	1    0    0    -1  
+$EndComp
+Connection ~ 6700 2675
 $EndSCHEMATC
