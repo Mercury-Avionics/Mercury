@@ -1,0 +1,61 @@
+Comment,Designator,Footprint,LCSC Part #
+"4.7uF Unpolarized capacitor, small symbol","C1,C25",C_0805_2012Metric,C1779
+"100nF Unpolarized capacitor, small symbol","C2,C3,C4,C5,C6,C7,C8,C19,C20,C21,C23,C27,C28,C29,C33",C_0402_1005Metric,C1525
+"1uF Unpolarized capacitor, small symbol","C9,C38,C45,C46",C_0402_1005Metric,C52923
+"10nF Unpolarized capacitor, small symbol","C10,C48",C_0402_1005Metric,C15195
+"2.2uF Unpolarized capacitor, small symbol","C11,C12",C_0603_1608Metric,C23630
+"12pF Unpolarized capacitor, small symbol","C13,C14,C34,C35,C40",C_0402_1005Metric,C1547
+"22uF Unpolarized capacitor, small symbol","C15,C16,C17,C18",C_0805_2012Metric,C45783
+"2.2nF Unpolarized capacitor, small symbol",C22,C_0603_1608Metric,C1604
+"100nF Unpolarized capacitor, small symbol",C26,C_0603_1608Metric,C14663
+"220pF Unpolarized capacitor, small symbol","C30,C31,C32",C_0402_1005Metric,C1530
+"1nF 0402 Unpolarized capacitor, small symbol",C36,C_0402_1005Metric,C1523
+"12pF 0402 Unpolarized capacitor, small symbol",C37,C_0402_1005Metric,C1547
+"1nF Unpolarized capacitor, small symbol",C39,C_0402_1005Metric,C1523
+"2.2pF Unpolarized capacitor, small symbol","C41,C42",C_0402_1005Metric,C1559
+"0.1pF Unpolarized capacitor, small symbol",C43,C_0402_1005Metric,C161338
+"18pF Unpolarized capacitor, small symbol",C44,C_0402_1005Metric,C1549
+"47pF Unpolarized capacitor, small symbol",C47,C_0402_1005Metric,C1567
+GREEN_LED Light emitting diode,D1,LED_0603_1608Metric,C72043
+RED_LED Light emitting diode,D2,LED_0603_1608Metric,C2286
+ORANGE_LED Light emitting diode,D3,LED_0603_1608Metric,C375450
+MountingHole_Pad Mounting Hole with connection,"H1,H2,H3,H4",MountingHole_3mm_Pad_Via,
+"SWD Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",J1,PinHeader_2x05_P1.27mm_Vertical,
+"UART1 Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)","J2,J4",SolderWire-0.1sqmm_1x02_P3.6mm_D0.4mm_OD1mm,
+"I2C2 Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",J3,SolderWire-0.1sqmm_1x03_P3.6mm_D0.4mm_OD1mm,
+"SPI1 Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",J5,SolderWire-0.1sqmm_1x04_P3.6mm_D0.4mm_OD1mm,
+"SPI2 Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",J6,SolderWire-0.1sqmm_1x04_P3.6mm_D0.4mm_OD1mm,
+1981568-1 ,J7,1981568-1,
+"Battery Input Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",J8,"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",
+"INPUT Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",J9,"TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal",
+"OUTPUT Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",J10,"TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal",
+"Analog I/O Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",J11,"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",
+"Power Rails Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",J12,"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",
+5-1814832-1 ,"J13,J14",TE_5-1814832-1,
+"39nH Inductor, small symbol",L1,L_0402_1005Metric,C26443
+"4.7nH Inductor, small symbol",L2,L_0402_1005Metric,C13595
+"1nH Inductor, small symbol",L3,L_0402_1005Metric,C18222
+"1.8nH Inductor, small symbol",L4,L_0402_1005Metric,C18304
+"27nH Inductor, small symbol",L5,L_0402_1005Metric,C18830
+"AO3401A -4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23",Q1,SOT-23,C15127
+"10k Resistor, small symbol",R1,R_0402_1005Metric,C25744
+"47 Resistor, small symbol",R2,R_0805_2012Metric,C17714
+"1k Resistor, small symbol","R3,R30",R_0402_1005Metric,C11702
+"22 Resistor, small symbol","R4,R5,R6,R7,R8,R10,R11,R12,R13,R14,R15,R16,R17,R18,R19,R20,R21,R22,R23",R_0402_1005Metric,C25092
+"4k7 Resistor, small symbol","R26,R27,R28,R29,R31,R32,R33",R_0402_1005Metric,C25900
+"56k Resistor, small symbol",R34,R_0402_1005Metric,C25796
+"47 Resistor, small symbol",R35,R_0402_1005Metric,C25118
+"3.9k 0402 Resistor, small symbol",R36,R_0402_1005Metric,C51721
+"10 Resistor, small symbol",R37,R_0402_1005Metric,C25744
+"SW_SPDT Switch, single pole double throw",SW1,SW_CuK_OS102011MA1QN1_SPDT_Angled,
+"STM32F407VGT6 ARM Cortex-M4 MCU, 1024KB flash, 128KB RAM, 168MHz, 1.8-3.6V, 82 GPIO, LQFP-100",U1,LQFP-100_14x14mm_P0.5mm,C12345
+"AMS1117-3.3 1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223",U2,SOT-223-3_TabPin2,C6186
+"AMS1117-5.0 1A Low Dropout regulator, positive, 5.0V fixed output, SOT-223",U3,SOT-223-3_TabPin2,C6187
+"MPU-6050 InvenSense 6-Axis Motion Sensor, Gyroscope, Accelerometer, I2C",U4,InvenSense_QFN-24_4x4mm_P0.5mm,C24112
+W25N01GVZEIG_TR ,U5,SON127P800X600X80-9N,C88868
+"LPS25HB MEMS pressure sensor, 260-1260 hPa, absolute digital output baromeeter",U6,ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y,C87898
+"CC2500 Single Chip Low Power RF Transceiver, QFN-20",U7,Texas_S-PVQFN-N20_EP2.4x2.4mm,C57494
+CC2592RGVR ,U8,QFN65P400X400X100-17N,C53274
+"MAX-8Q GNSS Module M8, VCC 2.7V to 3.6V",U9,ublox_MAX,
+"HSE 16MHz Four pin crystal, GND on pins 2 and 4, small symbol",Y1,Crystal_SMD_3225-4Pin_3.2x2.5mm,C13738
+"26 MHz Oscillator Four pin crystal, GND on pins 2 and 4, small symbol",Y2,Crystal_SMD_3225-4Pin_3.2x2.5mm,C23425
